@@ -1,0 +1,28 @@
+@import './base.css';
+
+#app {
+  margin: 0 auto;
+  /*padding: 0.5rem !important;*/
+  font-weight: normal;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: stretch;
+}
+
+#wrapper {
+
+  padding: 1rem;
+
+}
+
+a {
+  text-decoration: none;
+  transition: 0.4s;
+}
+
+@media (min-width: 1024px) {
+  body {
+    place-items: center;
+  }
+}
