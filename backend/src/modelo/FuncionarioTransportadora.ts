@@ -1,0 +1,3 @@
+class FuncionarioTransportadora extends Usuario {
+
+}

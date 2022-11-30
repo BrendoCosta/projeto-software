@@ -1,0 +1,3 @@
+class FuncionarioFabrica extends Usuario {
+
+}

@@ -1,0 +1,3 @@
+class AdministradorFabrica extends FuncionarioFabrica {
+
+}
